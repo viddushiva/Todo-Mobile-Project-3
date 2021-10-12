@@ -38,7 +38,10 @@
 
 .first{
     display: flex;
-    width: 100%;
+    flex-wrap: wrap;
+    
+    width: 50%;
+    margin-left: 25%;
     
     
     margin-top: 20px;
@@ -48,15 +51,14 @@
 
 .box1{      
     height: 260px;
-    width: 13%;
+    width: 25%;
     border-radius: 10px;
     border: 2px solid #E74C3C;
     box-shadow: 5px 5px 10px; 
     margin: 20px;
+    margin-top: 80px;
 }
-.zx{      
-   display: none;
-}
+
 
 
 .paris {
@@ -358,9 +360,7 @@ body{
     box-shadow: 5px 5px 10px; 
     margin: 20px;
 }
-.zx{
-    display: inline;
-}
+
 
 
 .paris {
@@ -705,9 +705,7 @@ display: none;
     padding: 10px;
 
 }
-.zx{
-    display: inline;
-}
+
 .q{display: none;}
 .icon2{
     color: red;
