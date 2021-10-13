@@ -24,7 +24,7 @@
 }
 .icon{
     margin-left: 250px;
-    margin-top: 10px;
+    margin-top: 15px;
     color: #E74C3C;
    cursor: pointer;
 
@@ -32,7 +32,7 @@
 .addlist{ color: #747474;
     font-size: 50px;
     padding-left: 25px;
-    padding-top: 2px;
+    padding-top: 5px;
 
 }
     
