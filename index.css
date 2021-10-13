@@ -331,7 +331,7 @@ body{
    
 }
 .icon{
-    margin-left: 35px;
+    margin-left: 10px;
     margin-top: 20px;
     color: #E74C3C;
    cursor: pointer;
@@ -348,6 +348,7 @@ body{
 .first{
     display: flex;
     width: 70%;
+    height: auto;
     
     
     margin-top: 20px;
@@ -359,11 +360,12 @@ body{
 
 .box1{      
     height: 63px;
-    width: 100%;
+    width: 90%;
     border-radius: 10px;
     border: 2px solid #E74C3C;
     box-shadow: 5px 5px 10px; 
     margin: 20px;
+    margin-left: auto;
 }
 
 
@@ -544,7 +546,7 @@ display: none;
 /* first page */
 .tli{
   
-    margin-left: 20px;
+    margin-left: 60px;
     margin-top: 10px;
     width: 65%;
 
@@ -583,6 +585,7 @@ display: none;
 .first{
     display: flex;
     width: 70%;
+    height: auto;
     
     
     margin-top: 20px;
@@ -594,7 +597,7 @@ display: none;
 
 .box1{      
     height: 63px;
-    width: 100%;
+    width: 90%;
     border-radius: 10px;
     border: 2px solid #E74C3C;
     box-shadow: 5px 5px 10px; 
